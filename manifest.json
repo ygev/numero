@@ -2,5 +2,5 @@
   "name": "Numero",
   "id": "915797195431763702",
   "api": "1.0.0",
-  "main": "code.js"
+  "main": "dist/code.js"
 }
