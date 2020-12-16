@@ -10,7 +10,7 @@
 </p>
 
 **Use Case**
-Numeric frame names have small hitboxes, and this plugin bandiads the issue by renaming those numbers into words. A more expanded use case coming soon.
+Numeric frame names have small hitboxes, and this plugin bandaids the issue by renaming those numbers into words. A more expanded use case coming soon.
 
 **Instructions**
 Simply run the plugin if you have frames with numeric names that you want to be converted into words.
