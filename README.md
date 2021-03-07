@@ -1,12 +1,12 @@
 <p align="center">
-    <img alt="OneTwo Icon" src="https://i.imgur.com/0CncYKK.png"" />
+    <img alt="OneTwo Icon" src="icon.png"" />
 </p>
 <h1 align="center">
   OneTwo · Figma Plugin
 </h1>
 <h2 align="center">Rename frames from numbers to words.</h2>
 <p align="center">
-    <img alt="OneTwo Icon" src="https://i.imgur.com/YrZ48wg.png" />
+    <img alt="OneTwo Icon" src="screenshot.png" />
 </p>
 
 **Use Case**
